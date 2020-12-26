@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lybrate Task</string>
+    <string name="restaurant_name">Restaurant Name : </string>
+    <string name="cuisines">Cuisines Type : </string>
+</resources>
